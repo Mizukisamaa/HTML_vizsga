@@ -104,6 +104,7 @@ body{
 
 .card{
     height: fit-content;
+    max-height: fit-content;
     width: 500px;
     max-width: 1000px;
     min-width: 300px;
