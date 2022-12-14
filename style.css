@@ -115,10 +115,10 @@ body{
     padding-top: 50px;
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1160px) {
     .card{
-        height: 32%;
-        max-height: 32%;
+        height: 40%;
+        max-height: 40%;
 
         padding-top: 50px;
 
